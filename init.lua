@@ -1,1 +1,1 @@
-require 'modules.keyboard'
+require 'modules.arrow_keys'
