@@ -1,2 +1,2 @@
-require 'modules.arrow_keys'
-require 'modules.english_spotlight'
+require 'modules.remap'
+require 'modules.appInputSource'
